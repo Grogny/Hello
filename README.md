@@ -1,5 +1,5 @@
-# Hello
-Une coutre présentation
+# Hellotr
+Une courtte presentaati
 #include <iostream>
 int main() {
     std::cout << "Je m'appelle Grogny";
